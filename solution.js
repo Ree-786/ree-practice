@@ -94,3 +94,9 @@ switch (season) {
         console.log("Spring brings flowers!");
         break;
 }
+
+functionhello(name) 
+{
+ let phrase= `Hello, ${name}!`;
+ debugger; say(phrase); 
+}
