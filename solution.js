@@ -28,7 +28,7 @@ let num = 42;
 let str = String(num);
 
 let num2 = 42;
-let str2 = num.toString();
+let str2 = num2.toString();
 
 // 5. 3 Write a boolean expression that uses all three of the logical operators (AND, OR, NOT).
 
