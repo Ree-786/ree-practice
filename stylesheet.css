@@ -36,3 +36,11 @@ p {
 h1 {
     text-align: center;
 }
+
+.learn {
+    color:green;
+}
+
+#fun {
+    font-size: 30px;
+}
