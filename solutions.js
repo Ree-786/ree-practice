@@ -112,3 +112,19 @@ switch (season) {
         console.log("Spring brings flowers!");
         break;
 }
+/*
+switch (season) {
+    case "summer":
+        console.log()
+        break;
+    case "winter":
+        console.log()
+        break;
+    case "autumn":
+        console.log()
+        break;
+    case "spring":
+        console.log()
+        break;  
+      }  
+     */             
